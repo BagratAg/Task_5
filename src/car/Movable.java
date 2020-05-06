@@ -1,5 +1,6 @@
-package com.company;
+package car;
 
 public interface Movable {
+
   void move();
 }

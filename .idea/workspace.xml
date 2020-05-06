@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99daf641-2a5e-4233-aadd-8b097ef3ca71" name="Default Changelist" comment="" />
+    <list default="true" id="99daf641-2a5e-4233-aadd-8b097ef3ca71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car/Scuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car/Tractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Brand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Movable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car/Movable.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,24 +28,31 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aiGofN5IyoA4udhQ0LM4iV0lb9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Study/Study.iml" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task 3" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="car.Main" />
       <module name="Task5" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -39,6 +61,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,9 +85,61 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="505" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1587409068401" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587286842432">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1588585885672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587286842432" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588585885672" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588585574498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588585574498" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1588683424353">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588683424353" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1588683424351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588683424351" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1588683424349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588683424349" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1588683424352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588683424352" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1588683032758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588683032758" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1588410064514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588410064514" />
+    <state x="499" y="168" width="538" height="495" key="extract.method.dialog" timestamp="1587655268266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="168" width="538" height="495" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587655268266" />
+    <state x="0" y="0" width="740" height="824" key="find.popup" timestamp="1587646011506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="740" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1587646011506" />
+    <state x="209" y="39" key="new project wizard" timestamp="1588779029211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="39" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588779029211" />
+    <state x="511" y="31" key="refactoring.ChangeSignatureDialog" timestamp="1587646120795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="31" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1587646120795" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1587994720224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587994720224" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588260486129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588260486129" />
   </component>
 </project>
